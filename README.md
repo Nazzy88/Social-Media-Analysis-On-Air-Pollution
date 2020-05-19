@@ -34,7 +34,7 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 * Others were concerned about air pollution being a contributing factor in contracting the virus and deaths.
 
 ## Created a Heat Map based on Top Trending Words.  
-![Heat_Map](Images/Heat_Map.png)
+![Heatm_small](Images/Heatm_small.png.png)
 
 
 
