@@ -1,7 +1,7 @@
 # Social-Media-Analysis-On-Air-Pollution
 Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 
-![Griffith](images/Griffith.png)
+![Griffith](images/Griffith_P.png)
 
 ## Does Air Pollution Really Matter to the US Population?
 * The data was collected through Twitter API on their Twitter Developer site. 
@@ -18,7 +18,7 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 
 
 ## Was able to compare the Number of Pollution Tweets Per State.
-![Number of Tweets Per State](images/Number of Tweets Per State.png)
+![Tweets_State](images/Tweets_State.png)
 
 
 ## Created a World Cloud based on the text.
@@ -34,7 +34,7 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 * Others were concerned about air pollution being a contributing factor in contracting the virus and deaths.
 
 ## Created a Heat Map based on Top Trending Words.  
-![Heat Map](Images/Heat Map.png)
+![Heat_Map](Images/Heat_Map.png)
 
 
 
