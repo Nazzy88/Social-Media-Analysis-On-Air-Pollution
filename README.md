@@ -1,7 +1,7 @@
 # Social-Media-Analysis-On-Air-Pollution
 Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 
-![Griffith](Images/Griffith.png)
+![Griffith](images/Griffith.png)
 
 ## Does Air Pollution Really Matter to the US Population?
 * The data was collected through Twitter API on their Twitter Developer site. 
@@ -10,7 +10,7 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
   there was quite a bit of cleaning up to do with the locations parameter. Since I wanted
   to find information for each state. 
 
-![Twitter](Images/Twitter.png)
+![Twitter](images/Twitter.png)
 ## Why Twitter?
 * Twitter Is An American Microblogging and Social Networking Service.
 * Which Users Post and Interact with messages known as “Tweets.”
@@ -18,18 +18,17 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 
 
 ## Was able to compare the Number of Pollution Tweets Per State.
-![Number of Tweets Per State](Images/Number of Tweets Per State.png)
+![Number of Tweets Per State](images/Number of Tweets Per State.png)
 
 
 ## Created a World Cloud based on the text.
-![World_Cloud](Images/World_Cloud.png)
+![World_Cloud](images/World_Cloud.png)
 
 
 * From this we see that due to the quarentine there is quite a bit of texts about Covid-19 and Coronavirus besides the    information on the up coming election in Nov. 2020.
 
 ## Created a bar graph based on air pollution, Covid-19, and Coronavirus.  
-![Covid_Corona](Images/Covid_Corona.png)
-
+![Covid_Corona](images/Covid_Corona.png)
 
 * From this we see the contributing states that are concered about this information.  Some tweets show people posting images       where the air pollution went down.
 * Others were concerned about air pollution being a contributing factor in contracting the virus and deaths.
