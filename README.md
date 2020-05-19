@@ -16,23 +16,23 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 * Micro-blogs allow users to exchange small elements of content such as short sentences, individual images, or video Links
 
 
-## Was able to compare the Number of Pollution Tweets Per State.
+## Number of Pollution Tweets Per State
 ![Tweets_State](images/Tweets_State.png)
 
 
-## Created a World Cloud based on the text.
+## World Cloud based on the text
 ![Wordc_small.png](images/Wordc_small.png)
 
 
 * From this we see that due to the quarentine there is quite a bit of texts about Covid-19 and Coronavirus besides the    information on the up coming election in Nov. 2020.
 
-## Created a bar graph based on air pollution, Covid-19, and Coronavirus.  
+## Bar graph based on air pollution, Covid-19, and Coronavirus hashtags.  
 ![Covid_Corona](images/Covid_Corona.png)
 
 * From this we see the contributing states that are concered about this information.  Some tweets show people posting images       where the air pollution went down.
 * Others were concerned about air pollution being a contributing factor in contracting the virus and deaths.
 
-## Created a Heat Map based on Top Trending Words.  
+## Heat Map based on Top 8 Trending Words 
 ![Heatm_small](images/Heatm_small.png.png)
 
 
