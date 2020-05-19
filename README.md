@@ -24,7 +24,7 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 ![Wordc_small.png](images/Wordc_small.png)
 
 
-* From this we see that due to the quarentine there is quite a bit of texts about Covid-19 and Coronavirus besides the    information on the up coming election in Nov. 2020.
+* Due to the quarentine there were quite a bit of texts about Covid-19 and Coronavirus besides the information on the up    coming election in Nov. 2020.
 
 ## Bar graph based on air pollution, Covid-19, and Coronavirus hashtags.  
 ![Covid_Corona](images/Covid_Corona.png)
