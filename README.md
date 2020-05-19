@@ -1,7 +1,6 @@
 # Social-Media-Analysis-On-Air-Pollution
 Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 
-![Griffith](images/Griffith_P.png)
 
 ## Does Air Pollution Really Matter to the US Population?
 * The data was collected through Twitter API on their Twitter Developer site. 
