@@ -16,13 +16,14 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 * Micro-blogs allow users to exchange small elements of content such as short sentences, individual images, or video Links
 
 ## Cleaning the Data
-* I had a limit of how many tweets I could pull due to my standard account, so I pulled a 100 tweets per hashtag. 
+* Due to my standard account, there was a limit of how many tweets that one could pull, so I pulled a 100 tweets per hashtag. 
 * Was able to find 25 trending hashtags that were relatable on air pollution from Allhashtag.com. 
 * Data had to be pulled twice due to being timed out from twitter. tqdm was used in order to speed up this process.
-* A location list and text list were created to store the data.
-* The tweets pulled were global, but I just wanted information for the US. 
-* So I had to clean the data by creating state codes in the location parameter. 
-* I had to use Stopwords in order to clean the text and add some words that I wanted to remove in order to clean the data.
+* A location list and text list were created inorder to store the data.
+* Could not pull tweets based on geo coordinates since my account was standard, location parameter was used instead.
+* The tweets pulled were global, but the information is for the US only. 
+* Creating state codes in the location parameter. 
+* Used Stopwords in order to clean the text and added some words that I wanted to remove in order to clean the data.
 
 ![hashtags](images/hashtags.png)
 
