@@ -36,7 +36,7 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 ![Tweets_State](images/Tweets_State.png)
 
 * CA, NJ, NY, TX tweet the most about air pollution.
-* CA has some of the most polluted citites so it would make sense that it has the most tweets.
+* CA citizens tweet the most about air pollution, followed by NJ, NY, and TX. NJ & NJ have Ozone-Polluted Cities. CA has the       most cities with bad air pollution. So, the awareness is evident in these states in particular. 
 
 
 
@@ -44,7 +44,8 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 ![Wordc_small.png](images/Wordc_small.png)
 
 
-* Due to the quarentine there were a number of texts about Covid-19 and Coronavirus besides the information on the up    coming election in Nov. 2020.
+* After analyzing the count of tweets per state. We created a Word Cloud plot which tells us the frequency of words used in the tweets, by their size scale. What was surprising is that covid-19 and coronavirus actually had a pretty high frequency in relation to the air pollution tweets.
+* Also there was information on the up coming election in Nov. 2020.
 
 
 ## Bar Graph based on Air Pollution, Covid-19, and Coronavirus Hashtags.  
@@ -68,4 +69,5 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 * CA has the most tweets about this subject due to having some cities with the most pollution. 
 * Was hoping to see more states tweet about this subject.
 * Was able to pull current event information on Conronavirus and Covid-19. 
+* All in all the US population does care about air pollution, some do more than others due to the air pollution affecting where they live. 
 
