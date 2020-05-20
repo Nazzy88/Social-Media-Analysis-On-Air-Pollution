@@ -67,3 +67,5 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 * There is awareness of air pollution in the US.  
 * CA has the most tweets about this subject due to having some cities with the most pollution. 
 * Was hoping to see more states tweet about this subject.
+* Was able to pull current event information on Conronavirus and Covid-19. 
+
