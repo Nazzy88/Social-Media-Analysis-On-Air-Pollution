@@ -33,32 +33,10 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 * The tweets pulled were global, but the information is for the US only. 
 * Creating state codes in the location parameter. 
 * Used Stopwords in order to clean the text and added some words that I wanted to remove in order to clean the data.
-```python
-# Open/Create a file to append data
-
-hashtags = ["#airpollution","#AirPollution","#airpollutionmask","#environment" ,
-           "#climate", "#climatechange","#climatechangeisreal", "#earth", "#theearth", "#theenviroment",
-            "#recycle", "#reduce", "#reuse", "#savetheearth", "#sealevels",
-            "#globalwarming", "#pollution", "#waterpollution",
-            "#savetheplanet", "#theplanet", "#planet", "#fortheenvironment",
-            "#noplanetb", "#earthday", "#earthdayeveryday"]
-            
-locationsList = []
-tweetTextList = []
-```
 
 ![hashtags](images/hashtags.png)
 
 ![state_codes](images/state_codes.png)
-```python
-for hshtg in tqdm(hashtags[23:]):
-    print("query for hashtag " + hshtg + "...")
-    for tweet in tweepy.Cursor(api.search,q=hshtg, count=400, lang="en", since="2020-05-08", wait_on_rate_limit=True).items(1000):
-        location = tweet._json["user"]["location"]
-        text = tweet._json["text"]
-        locationsList.append(location)
-        tweetTextList.append(text)
-```
 
 ![cleantext](images/cleantext.png)
 
