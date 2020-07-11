@@ -15,6 +15,15 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 * Which Users Post and Interact with messages known as “Tweets.”
 * Micro-blogs allow users to exchange small elements of content such as short sentences, individual images, or video Links
 
+## Technologies
+* tweepy (twitter library)
+* API
+* CSV
+* Pandas
+* Json
+* Worldcloud
+* Seaborn 
+
 ## Cleaning the Data
 * Due to my standard account, there was a limit of how many tweets that one could pull, so I pulled a 100 tweets per hashtag. 
 * Was able to find 25 trending hashtags that were relatable on air pollution from Allhashtag.com. 
