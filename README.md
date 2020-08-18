@@ -4,8 +4,8 @@ Analyzed Twitter API for Air Pollution Data. Python Scripting with Twitter API
 
 ## Does Air Pollution Really Matter to the US Population?
 * The data was collected through Twitter API on their Twitter Developer site. 
-* Was only able to collect the data for 7 days due to my subsription being standard. (Dates: 05.08.2020-05.15.2020)
-* Due to the information being global and not being able to use the geotag coordintes, 
+* Was only able to collect the data for 7 days due to my subscription being standard. (Dates: 05.08.2020-05.15.2020)
+* Due to the information being global and not being able to use the geotag coordinates, 
   there was quite a bit of cleaning up to do with the locations parameter. Since I wanted
   to find information for each state. 
 
